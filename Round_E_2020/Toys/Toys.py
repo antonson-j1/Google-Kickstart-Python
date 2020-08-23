@@ -1,3 +1,8 @@
+'''
+Final Solution will be updated soon. This code below is to give you all only a idea on how to solve the question
+Thanks
+'''
+
 t = int(input())
 def column_sum(lst):  
     return list(map(sum, zip(*lst)))
