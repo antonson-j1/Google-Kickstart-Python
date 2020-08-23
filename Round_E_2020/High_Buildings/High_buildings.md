@@ -29,16 +29,16 @@ Test Set 1
 Test Set 2
 1 ≤ N ≤ 100.
 
-### Sample
+## Sample
 
-#### Input
+## Input
  	 
 3
 4 1 3 1
 4 4 4 3
 5 3 3 2
 
-#### Output
+## Output
 
 Case #1: 4 1 3 2
 Case #2: IMPOSSIBLE
